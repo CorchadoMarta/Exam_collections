@@ -21,7 +21,7 @@ public class Exercici3 {
 		LlistaInicial.add(new Animal(394, "empordanesa", 3.95, 2, 1.17));
 		LlistaInicial.add(new Animal(398, "empordanesa", 3.41, 2, 1.17));
 		LlistaInicial.add(new Animal(331, "campiona", 3.41, 2, 871.71));
-
+ 
 		Animal mostra;
 		Animal verificacio;
 
